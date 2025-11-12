@@ -1,0 +1,3 @@
+# Dependencias del proyecto
+flask
+pandas
